@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-rust-htslib = { version = "0.47.0", features = ["libdeflate"] }
+rust-htslib = { version = "0.51.0", features = ["libdeflate"] }
